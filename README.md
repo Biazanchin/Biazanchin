@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/beatriz-zanchin-messias-22356a303" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23F95759.svg?style=for-the-badge&logo=linkedin&logoColor=white"<a>
+  <a href="https://www.linkedin.com/in/beatriz-zanchin-messias-22356a303" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"<a>
 </div> 
 
 <div align="center">
