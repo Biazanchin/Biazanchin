@@ -15,8 +15,6 @@
   <a href="https://www.linkedin.com/in/beatriz-zanchin-messias-22356a303" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"<a>
 </div> 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="411dd9fe-2eb5-4401-8740-16f9e07e30b2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Biazanchin}/count.svg" /></p> 
