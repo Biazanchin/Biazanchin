@@ -9,7 +9,7 @@ Olá, meu nome é Beatriz Zanchin Messias. Estou estudando para me tornar uma De
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biazanchin&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
-### Skills:
+### Skills 💡
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@ Olá, meu nome é Beatriz Zanchin Messias. Estou estudando para me tornar uma De
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Contato:
+### Contato 📞
 <a href="https://www.linkedin.com/in/beatriz-zanchin-messias-22356a303" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
