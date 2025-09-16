@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://www.mxcursos.com/blog/wp-content/uploads/2017/04/front-end-ou-back-end-entenda-as-diferencas-e-descubra-o-seu-perfil.png"/>
 
-Olá, meu nome é Beatriz Zanchin Messias. Estou estudando para me tornar uma Desenvolvedora Front-End, com foco em Angular para criar interfaces interativas e dinâmicas. Bem-vindo ao meu perfil! :)
+Olá, meu nome é Beatriz Zanchin Messias. Estou estudando para me tornar uma Desenvolvedora Front-End. Bem-vindo ao meu perfil! :)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Biazanchin&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Zanchin github stats" /> 
