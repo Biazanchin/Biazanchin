@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://www.mxcursos.com/blog/wp-content/uploads/2017/04/front-end-ou-back-end-entenda-as-diferencas-e-descubra-o-seu-perfil.png"/>
 
-Olá, meu nome é Beatriz Zanchin Messias. Estou estudando para me tornar uma Desenvolvedora Front-End. Bem-vindo ao meu perfil! :)
+Olá, meu nome é Beatriz Zanchin Messias. Estou estudando para atuar como Product Owner. Bem-vindo ao meu perfil! :)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Biazanchin&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Zanchin github stats" /> 
@@ -11,10 +11,8 @@ Olá, meu nome é Beatriz Zanchin Messias. Estou estudando para me tornar uma De
 
 ### Skills 💡
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Contato 📞
